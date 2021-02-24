@@ -8,7 +8,7 @@ pip install git+https://github.com/AnnaVechkaeva/hello_world_python_package.git#
 ```
 
 To use the package:
-```
+```python
 >>> from hello_world_python_package.hello.SayHello import Hello
 >>> h = Hello()
 >>> h.sayhelloworld()
