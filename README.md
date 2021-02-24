@@ -1,1 +1,3 @@
-# hello_world_python_package
+# Hello Wworld Python Package
+
+Creating my first Python package
